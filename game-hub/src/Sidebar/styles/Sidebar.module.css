@@ -1,0 +1,8 @@
+.liParent:hover .liChildText{
+    text-decoration: underline;
+}
+
+.onClickFontStyle {
+    font-size: 18px;
+    font-weight: bold;
+}
